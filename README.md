@@ -11,4 +11,4 @@
    ░       ░  ░      ░    ░              ░ ░  ░   
  ░                                                
 ```
-🧪 A CLI for cleaning up Node.js projects easily.
+🧪 A CLI tool for cleaning up Node.js projects easily.
